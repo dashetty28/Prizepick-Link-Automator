@@ -72,8 +72,6 @@ def handle_account(dc_username, dc_password, pp_email, pp_password, one_unit, la
 
 
 def main():
-    dc_username = "dashetty28"
-    dc_password = "Da5hda5hshet!"
 
     # List of PrizePicks account credentials and one_unit values
     prizepicks_accounts = [
